@@ -1,0 +1,83 @@
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://enrico-camilla:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 0 kernels
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://enrico-camilla:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 5358ade5-6e87-4e39-92f7-ae912c80629b
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 5358ade5-6e87-4e39-92f7-ae912c80629b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 5358ade5-6e87-4e39-92f7-ae912c80629b:246fb13a104c4ae589ce9a66f51010dc
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nerveconan-picassovisa:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] 400 GET /api/contents/AML%20coursework.ipynb?type=notebook&_=1654167639037 (192.168.10.156): Unreadable Notebook: /home/codio/workspace/AML coursework.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/AML coursework.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/AML%20coursework.ipynb?type=notebook&_=1654167639037 (192.168.10.156) 1.42ms referer=https://nerveconan-picassovisa-3000.codio-box.uk/notebooks/AML%20coursework.ipynb?codioId=8a074e22-9ae0-2ff3-9ae4-70856d2b2a50
+[NotebookApp | WARNING] 400 GET /api/contents/AML%20coursework.ipynb?type=notebook&_=1654167741047 (192.168.10.156): Unreadable Notebook: /home/codio/workspace/AML coursework.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] Unreadable Notebook: /home/codio/workspace/AML coursework.ipynb NotJSONError("Notebook does not appear to be JSON: ''...",)
+[NotebookApp | WARNING] 400 GET /api/contents/AML%20coursework.ipynb?type=notebook&_=1654167741047 (192.168.10.156) 1.27ms referer=https://nerveconan-picassovisa-3000.codio-box.uk/notebooks/AML%20coursework.ipynb
+[NotebookApp | WARNING] Notebook AML_coursework.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 2af0c140-f53c-4321-bd2d-23922b2112e9
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 2af0c140-f53c-4321-bd2d-23922b2112e9) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 2af0c140-f53c-4321-bd2d-23922b2112e9:f3cc62ed40f743748cae176d0c44551a
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 2af0c140-f53c-4321-bd2d-23922b2112e9
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nerveconan-picassovisa:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | WARNING] Notebook AML_coursework.ipynb is not trusted
+[NotebookApp | INFO] Kernel started: 9dc1475f-70a7-4d01-a87f-fcfaef725293
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 9dc1475f-70a7-4d01-a87f-fcfaef725293) to 5.3 (client).
+[NotebookApp | INFO] Saving file at /AML_coursework.ipynb
+[NotebookApp | INFO] Saving file at /AML_coursework.ipynb
+[NotebookApp | INFO] Starting buffering for 9dc1475f-70a7-4d01-a87f-fcfaef725293:32a0a899b6f642a580c2ba1357c1384d
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 9dc1475f-70a7-4d01-a87f-fcfaef725293
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nerveconan-picassovisa:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3862f90a-7620-4339-ad76-2a40b53e443b
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3862f90a-7620-4339-ad76-2a40b53e443b) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 3862f90a-7620-4339-ad76-2a40b53e443b:f7de20f3e6fa47f687155a4757d8faae
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 3862f90a-7620-4339-ad76-2a40b53e443b
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nerveconan-picassovisa:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 4d484ae1-9efa-487e-a05f-261470fcec1c
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 4d484ae1-9efa-487e-a05f-261470fcec1c) to 5.3 (client).
+[NotebookApp | INFO] Starting buffering for 4d484ae1-9efa-487e-a05f-261470fcec1c:68da8277a7a94d52ab3f44ea49de5bf7
+[NotebookApp | CRITICAL] received signal 15, stopping
+[NotebookApp | INFO] Shutting down 1 kernel
+[NotebookApp | INFO] Kernel shutdown: 4d484ae1-9efa-487e-a05f-261470fcec1c
+[NotebookApp | WARNING] No nbgrader_config.py file found (rerun with --debug to see where nbgrader is looking)
+[NotebookApp | INFO] Loading the validate_assignment nbgrader serverextension
+[NotebookApp | INFO] Serving notebooks from local directory: /home/codio/workspace
+[NotebookApp | INFO] The Jupyter Notebook is running at:
+[NotebookApp | INFO] http://nerveconan-picassovisa:3000/
+[NotebookApp | INFO] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[NotebookApp | INFO] Kernel started: 3e2928ca-ab5b-4a39-899d-db608628b747
+[NotebookApp | INFO] Adapting from protocol version 5.1 (kernel 3e2928ca-ab5b-4a39-899d-db608628b747) to 5.3 (client).
